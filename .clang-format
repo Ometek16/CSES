@@ -1,0 +1,12 @@
+BasedOnStyle: llvm
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+BreakBeforeBraces: Attach
+SpaceBeforeParens: ControlStatements
+ColumnLimit: 120
+SortIncludes: true
+IncludeBlocks: Preserve
+PointerAlignment: Left
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 1
